@@ -1,0 +1,8 @@
+sentence-transformers
+pinecone
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-pinecone
+langchain-huggingface
